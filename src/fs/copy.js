@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const folderPath = path.join(__dirname, 'files');
-const newFolderPath = path.join(__dirname, 'copy_files');
+const newFolderPath = path.join(__dirname, 'files_copy');
 
 const copy = async () => {
     fs.access(folderPath).catch(() => {
