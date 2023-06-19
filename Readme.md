@@ -1,3 +1,3 @@
 # Node.js basics
 
-## !!! Please don't submit Pull Requests to this repository !!!
+## You can see my solution in dev branch
